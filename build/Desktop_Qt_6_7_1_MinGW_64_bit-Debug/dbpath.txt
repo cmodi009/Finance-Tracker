@@ -1,0 +1,2 @@
+C:/Users/chint/Downloads/db/mydb.db
+C:/Users/chint/Downloads/db/QFinance.sqlite
